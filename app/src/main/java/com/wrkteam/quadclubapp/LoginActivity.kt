@@ -19,7 +19,7 @@ class LoginActivity : AppCompatActivity() {
         mAuth = FirebaseAuth.getInstance()
 
         binding.btnToLogin.setOnClickListener {
-            loginUser();
+            loginUser()
         }
     }
 
@@ -42,8 +42,8 @@ class LoginActivity : AppCompatActivity() {
                     if(task.isSuccessful)
                     {
                         Toast.makeText(this@LoginActivity, "zalogowano", Toast.LENGTH_LONG).show()
-//                        val intent = Intent(this, MainActivity::class.java).apply {}
-//                        startActivity(intent)
+                        val intent = Intent(this, MainActivity::class.java).apply {}
+                        startActivity(intent)
                     }
                     else
                     {
