@@ -5,4 +5,6 @@
     <string name="str_rejestracja">Zarejestruj</string>
     <string name="email">email</string>
     <string name="has_o">hasło</string>
+    <string name="napis_powitalny">Witaj, jesteś zalogowany!</string>
+    <string name="str_wyloguj">Wyloguj</string>
 </resources>
