@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         //elo
         // no hejka
 
+        //Trala lala kolejna zmiana
+
     }
 }
