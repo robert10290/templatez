@@ -20,6 +20,7 @@ class RegisterActivity : AppCompatActivity() {
         }
 
         mAuth = FirebaseAuth.getInstance()
+        //kk
 
     }
 }
