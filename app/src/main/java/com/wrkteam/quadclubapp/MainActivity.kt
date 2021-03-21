@@ -13,9 +13,7 @@ class MainActivity : AppCompatActivity() {
         // no hejka
 
         //Trala lala kolejna zmiana
-        //oppdsfds
-        //dsadas
-        //dsadasdsadsallgfdgdd
+        //Ameno2
 
     }
 }
