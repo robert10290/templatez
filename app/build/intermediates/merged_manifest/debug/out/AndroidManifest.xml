@@ -18,13 +18,15 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.QuadclubApp" >
-        <activity android:name="com.wrkteam.quadclubapp.MainActivity" >
+        <activity android:name="com.wrkteam.quadclubapp.RegisterActivity" />
+        <activity android:name="com.wrkteam.quadclubapp.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.wrkteam.quadclubapp.MainActivity" />
     </application>
 
 </manifest>

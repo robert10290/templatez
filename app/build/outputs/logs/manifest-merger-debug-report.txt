@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\0029f3b48d83675704c883808f36e539\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\faecea335808a370d43ddf9ed7c5a1e9\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\53c83d306e922a17de670d29b8fc1d87\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -38,25 +38,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Wojtek\.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\5483f8625c2214ac85eb45fc58c4b3ee\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\f5392be62c12b8ccdab68e91db13da69\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\15aa155ad0ec2eb1991fa443b30ecfef\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\faecea335808a370d43ddf9ed7c5a1e9\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\faecea335808a370d43ddf9ed7c5a1e9\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Wojtek\.gradle\caches\transforms-2\files-2.1\53c83d306e922a17de670d29b8fc1d87\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -79,20 +79,28 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Wo
 		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:11:9-49
-activity#com.wrkteam.quadclubapp.MainActivity
-ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:12:9-18:20
+activity#com.wrkteam.quadclubapp.RegisterActivity
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:12:9-63
 	android:name
-		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:12:19-51
+activity#com.wrkteam.quadclubapp.LoginActivity
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:13:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.wrkteam.quadclubapp.MainActivity
+ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml:20:19-47
 uses-sdk
 INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Wojtek\Desktop\Android Kotlin kurs\IO_2020_2021_QuadclubApp\app\src\main\AndroidManifest.xml

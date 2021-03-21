@@ -3,4 +3,6 @@
     <string name="str_login">Logowanie</string>
     <string name="str_btn_zaloguj">Zaloguj</string>
     <string name="str_rejestracja">Zarejestruj</string>
+    <string name="email">email</string>
+    <string name="has_o">hasło</string>
 </resources>
