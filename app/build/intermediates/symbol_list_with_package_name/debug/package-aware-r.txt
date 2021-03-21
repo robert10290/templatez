@@ -1771,6 +1771,8 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btn_to_login
+id btn_to_register
 id button
 id buttonPanel
 id cache_measures
@@ -2059,6 +2061,7 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2084,6 +2087,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txt_log_email
+id txt_log_password
 id unchecked
 id uniform
 id unlabeled
@@ -2156,7 +2161,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
+layout activity_register
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2278,10 +2285,12 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string email
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string has_o
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2342,8 +2351,9 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
-string str_button
-string str_main
+string str_btn_zaloguj
+string str_login
+string str_rejestracja
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

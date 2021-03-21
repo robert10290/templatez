@@ -3,8 +3,12 @@
     <string name="str_login">Logowanie</string>
     <string name="str_btn_zaloguj">Zaloguj</string>
     <string name="str_rejestracja">Zarejestruj</string>
+    <string name="napis_powitalny">Witaj, jesteś zalogowany!</string>
+    <string name="str_wyloguj">Wyloguj</string>
     <string name="str_email">email</string>
     <string name="str_password">password</string>
     <string name="str_repeat_password">repeat password</string>
     <string name="str_register">Register</string>
+    <string name="email">email</string>
+    <string name="has_o">hasło</string>
 </resources>
