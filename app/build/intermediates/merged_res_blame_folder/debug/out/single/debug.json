@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
@@ -52,12 +52,12 @@
         "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",

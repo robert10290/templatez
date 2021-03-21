@@ -1,2 +1,8 @@
+com/wrkteam/quadclubapp/databinding/ActivityMainBinding.java
+ com.wrkteam.quadclubapp.databinding.ActivityMainBinding
+com/wrkteam/quadclubapp/databinding/ActivityRegisterBinding.java
+ com.wrkteam.quadclubapp.databinding.ActivityRegisterBinding
 com/wrkteam/quadclubapp/BuildConfig.java
  com.wrkteam.quadclubapp.BuildConfig
+com/wrkteam/quadclubapp/databinding/ActivityLoginBinding.java
+ com.wrkteam.quadclubapp.databinding.ActivityLoginBinding
