@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">QuadclubApp</string>
     <string name="str_main">Jebac policje</string>
+    <string name="str_button">Przycisk</string>
 </resources>
