@@ -21,6 +21,11 @@ class LoginActivity : AppCompatActivity() {
         binding.btnToLogin.setOnClickListener {
             loginUser();
         }
+
+        binding.btnToRegister.setOnClickListener {
+            val intent = Intent(this, RegisterActivity::class.java).apply {}
+            startActivity(intent)
+        }
     }
 
     private fun loginUser() {
@@ -42,8 +47,8 @@ class LoginActivity : AppCompatActivity() {
                     if(task.isSuccessful)
                     {
                         Toast.makeText(this@LoginActivity, "zalogowano", Toast.LENGTH_LONG).show()
-//                        val intent = Intent(this, MainActivity::class.java).apply {}
-//                        startActivity(intent)
+                        val intent = Intent(this, MainActivity::class.java).apply {}
+                        startActivity(intent)
                     }
                     else
                     {
