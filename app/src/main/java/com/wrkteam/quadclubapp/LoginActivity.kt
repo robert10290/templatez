@@ -38,15 +38,16 @@ class LoginActivity : AppCompatActivity() {
         else
         {
             mAuth.signInWithEmailAndPassword(email,password)
-                .addOnCompleteListener { task ->
+                .addOnCompleteListener(this) { task ->
                     if(task.isSuccessful)
                     {
-                        val intent = Intent(this, MainActivity::class.java).apply {}
-                        startActivity(intent)
+                        Toast.makeText(this@LoginActivity, "zalogowano", Toast.LENGTH_LONG).show()
+//                        val intent = Intent(this, MainActivity::class.java).apply {}
+//                        startActivity(intent)
                     }
                     else
                     {
-                        Toast.makeText(this@LoginActivity, "Error Message: you don't remember yout password noob!", Toast.LENGTH_LONG).show()
+                        Toast.makeText(this@LoginActivity, "Error Message: " + email + " " + password, Toast.LENGTH_LONG).show()
                     }
                 }
         }
