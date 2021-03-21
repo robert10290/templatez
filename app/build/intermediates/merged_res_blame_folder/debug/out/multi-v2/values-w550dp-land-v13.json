@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
+            "outputFile": "C:\\Users\\Robert\\AndroidStudioProjects\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Wojtek\\.gradle\\caches\\transforms-2\\files-2.1\\293d13a4407b1aeddb34482b8213a7d0\\material-1.3.0\\res\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
+                    "source": "C:\\Users\\Robert\\.gradle\\caches\\transforms-2\\files-2.1\\293d13a4407b1aeddb34482b8213a7d0\\material-1.3.0\\res\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
