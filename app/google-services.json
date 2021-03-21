@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "630506941751",
+    "project_id": "fir-authdemo-1151a",
+    "storage_bucket": "fir-authdemo-1151a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630506941751:android:c58ea60678f8776e7dbeb2",
+        "android_client_info": {
+          "package_name": "com.vojtek.firebaseauthdebo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630506941751-i1q2tq54vl26tgo4nipme3jk4iik6nl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AupNpq6k_9X6_ZAEMagA9M5pH7hz8gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630506941751-i1q2tq54vl26tgo4nipme3jk4iik6nl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630506941751:android:1f22f0091952b2e67dbeb2",
+        "android_client_info": {
+          "package_name": "com.wrkteam.quadclubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630506941751-i1q2tq54vl26tgo4nipme3jk4iik6nl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AupNpq6k_9X6_ZAEMagA9M5pH7hz8gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630506941751-i1q2tq54vl26tgo4nipme3jk4iik6nl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
