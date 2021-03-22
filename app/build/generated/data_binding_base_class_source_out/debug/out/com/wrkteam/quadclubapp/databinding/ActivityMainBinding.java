@@ -23,12 +23,16 @@ public final class ActivityMainBinding implements ViewBinding {
   public final Button button;
 
   @NonNull
+  public final TextView textEmail;
+
+  @NonNull
   public final TextView textView;
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button button,
-      @NonNull TextView textView) {
+      @NonNull TextView textEmail, @NonNull TextView textView) {
     this.rootView = rootView;
     this.button = button;
+    this.textEmail = textEmail;
     this.textView = textView;
   }
 
@@ -65,13 +69,19 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.text_email;
+      TextView textEmail = rootView.findViewById(id);
+      if (textEmail == null) {
+        break missingId;
+      }
+
       id = R.id.textView;
       TextView textView = rootView.findViewById(id);
       if (textView == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, button, textView);
+      return new ActivityMainBinding((ConstraintLayout) rootView, button, textEmail, textView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

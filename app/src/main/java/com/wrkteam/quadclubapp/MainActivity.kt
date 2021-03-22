@@ -9,12 +9,16 @@ import com.wrkteam.quadclubapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding : ActivityMainBinding
+    private lateinit var mAuth: FirebaseAuth
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        mAuth = FirebaseAuth.getInstance()
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        binding.textEmail.text = mAuth.currentUser.email
 
         binding.button.setOnClickListener(){
             FirebaseAuth.getInstance().signOut()
