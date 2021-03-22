@@ -52,7 +52,7 @@ class LoginActivity : AppCompatActivity() {
                     }
                     else
                     {
-                        Toast.makeText(this@LoginActivity, "Error Message: " + email + " " + password, Toast.LENGTH_LONG).show()
+                        Toast.makeText(this@LoginActivity, "Error Message: Wrong data!", Toast.LENGTH_LONG).show()
                     }
                 }
         }

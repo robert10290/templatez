@@ -42,16 +42,25 @@ class RegisterActivity : AppCompatActivity() {
         }
         else
         {
-            auth.createUserWithEmailAndPassword(email, password)
+            if(password == password2) {
+                auth.createUserWithEmailAndPassword(email, password)
                     .addOnCompleteListener(this) { task ->
                         if (task.isSuccessful) {
-                            Toast.makeText(this@RegisterActivity, "utorzono konto", Toast.LENGTH_LONG).show()
+                            Toast.makeText(
+                                this@RegisterActivity,
+                                "utorzono konto",
+                                Toast.LENGTH_LONG
+                            ).show()
                             val intent = Intent(this, LoginActivity::class.java).apply {}
                             startActivity(intent)
                         } else {
-                            Toast.makeText(this@RegisterActivity, "Error!", Toast.LENGTH_LONG).show()
+                            Toast.makeText(this@RegisterActivity, "Error!", Toast.LENGTH_LONG)
+                                .show()
                         }
                     }
+            } else {
+                Toast.makeText(this@RegisterActivity, "Wrong passwords!", Toast.LENGTH_LONG).show()
+            }
         }
     }
 
