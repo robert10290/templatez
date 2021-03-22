@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Wojtek\\Desktop\\Android Kotlin kurs\\IO_2020_2021_QuadclubApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
