@@ -34,11 +34,11 @@ class LoginActivity : AppCompatActivity() {
 
         if(email == "")
         {
-            Toast.makeText(this@LoginActivity, "please write email", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@LoginActivity, "Wypełnij pole email", Toast.LENGTH_LONG).show()
         }
         else if (password == "")
         {
-            Toast.makeText(this@LoginActivity, "please write password", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@LoginActivity, "Wypełnij pole hasło", Toast.LENGTH_LONG).show()
         }
         else
         {
@@ -52,7 +52,7 @@ class LoginActivity : AppCompatActivity() {
                     }
                     else
                     {
-                        Toast.makeText(this@LoginActivity, "Error Message: Wrong data!", Toast.LENGTH_LONG).show()
+                        Toast.makeText(this@LoginActivity, "Błąd: złe dane !", Toast.LENGTH_LONG).show()
                     }
                 }
         }

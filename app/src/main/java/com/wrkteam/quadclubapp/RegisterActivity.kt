@@ -34,11 +34,11 @@ class RegisterActivity : AppCompatActivity() {
 
         if(email == "")
         {
-            Toast.makeText(this@RegisterActivity, "please write email", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@RegisterActivity, "Wypełnij pole email", Toast.LENGTH_LONG).show()
         }
         else if (password == "" || password2 == "")
         {
-            Toast.makeText(this@RegisterActivity, "please write password", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@RegisterActivity, "Wypełnij pole hasło", Toast.LENGTH_LONG).show()
         }
         else
         {
@@ -59,7 +59,7 @@ class RegisterActivity : AppCompatActivity() {
                         }
                     }
             } else {
-                Toast.makeText(this@RegisterActivity, "Wrong passwords!", Toast.LENGTH_LONG).show()
+                Toast.makeText(this@RegisterActivity, "Podane hasła różnią się !", Toast.LENGTH_LONG).show()
             }
         }
     }

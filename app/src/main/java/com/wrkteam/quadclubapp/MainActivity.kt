@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
             Toast.makeText(this@MainActivity, "wylogowano", Toast.LENGTH_LONG).show()
+
         }
 
 
