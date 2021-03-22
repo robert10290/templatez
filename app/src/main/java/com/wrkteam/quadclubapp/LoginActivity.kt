@@ -19,7 +19,7 @@ class LoginActivity : AppCompatActivity() {
         mAuth = FirebaseAuth.getInstance()
 
         binding.btnToLogin.setOnClickListener {
-            loginUser();
+            loginUser()
         }
 
         binding.btnToRegister.setOnClickListener {
